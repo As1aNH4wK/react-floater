@@ -77,7 +77,7 @@
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "bundlesize": "^0.18.0",
     "chalk": "^2.4.2",
-    "cross-env": "^5.2.0",
+    "cross-env": "^5.2.1",
     "dtslint": "^0.8.0",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
