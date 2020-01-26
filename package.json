@@ -112,7 +112,7 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "styled-components": "^4.3.2",
     "watch-run": "^1.2.5",
-    "yargs": "^13.2.4"
+    "yargs": "^13.3.0"
   },
   "scripts": {
     "build": "cross-env NODE_ENV=production npm run clean && rollup -c",
